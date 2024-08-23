@@ -1,5 +1,7 @@
 # Hackintosh, Soyo YL B550M, AMD Ryzen 5 5600, AMD Radeon RX 5700 XT, 32Gb RAM DDR4
 
+![Overview](https://github.com/user-attachments/assets/41382d16-e2c0-489f-802b-bc3e1a942f4c)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
